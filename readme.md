@@ -123,7 +123,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-4.  Run each notebook in sequence.
+4.  Run each notebook in sequence. Make sure the newly created virtual environment is selected as the kernel.
 
 ------------------------------------------------------------------------
 

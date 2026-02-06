@@ -1,4 +1,6 @@
 ipykernel
+ipython
+nbformat
 pandas
 numpy
 matplotlib
@@ -7,3 +9,5 @@ scipy
 plotly
 requests
 Pillow
+openpyxl
+kaleido
