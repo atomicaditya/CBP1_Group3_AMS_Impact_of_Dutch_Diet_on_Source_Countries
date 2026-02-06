@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Soy_Planted_Area_" id="Soy_Planted_Area_">
+	<SimpleField name="tile_id" type="string"></SimpleField>
+	<SimpleField name="F2001" type="string"></SimpleField>
+	<SimpleField name="F2002" type="string"></SimpleField>
+	<SimpleField name="F2003" type="string"></SimpleField>
+	<SimpleField name="F2004" type="string"></SimpleField>
+	<SimpleField name="F2005" type="string"></SimpleField>
+	<SimpleField name="F2006" type="string"></SimpleField>
+	<SimpleField name="F2007" type="string"></SimpleField>
+	<SimpleField name="F2008" type="string"></SimpleField>
+	<SimpleField name="F2009" type="string"></SimpleField>
+	<SimpleField name="F2010" type="string"></SimpleField>
+	<SimpleField name="F2011" type="string"></SimpleField>
+	<SimpleField name="F2012" type="string"></SimpleField>
+	<SimpleField name="F2013" type="string"></SimpleField>
+	<SimpleField name="F2014" type="string"></SimpleField>
+	<SimpleField name="F2015" type="string"></SimpleField>
+	<SimpleField name="F2016" type="string"></SimpleField>
+	<SimpleField name="F2017" type="string"></SimpleField>
+	<SimpleField name="F2018" type="string"></SimpleField>
+	<SimpleField name="F2019" type="string"></SimpleField>
+	<SimpleField name="F2020" type="string"></SimpleField>
+	<SimpleField name="F2021" type="string"></SimpleField>
+	<SimpleField name="F2022" type="string"></SimpleField>
+	<SimpleField name="ObjectId" type="int"></SimpleField>
+	<SimpleField name="Shape__Area" type="float"></SimpleField>
+	<SimpleField name="Shape__Length" type="float"></SimpleField>
+</Schema>
+<Folder><name>Soy_Planted_Area_</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Soy_Planted_Area_">
+		<SimpleData name="tile_id">00N_050W</SimpleData>
+		<SimpleData name="F2001">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2001&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2002">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2002&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2003">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2003&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2004">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2004&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2005">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2005&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2006">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2006&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2007">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2007&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2008">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2008&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2009">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2009&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2010">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2010&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2011">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2011&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2012">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2012&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2013">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2013&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2014">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2014&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2015">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2015&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2016">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2016&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2017">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2017&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2018">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2018&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2019">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2019&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2020">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2020&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2021">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2021&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2022">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_050W&amp;pixel_meaning=is__year_2022&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="ObjectId">1</SimpleData>
+		<SimpleData name="Shape__Area">1245542622548.87</SimpleData>
+		<SimpleData name="Shape__Length">4464169.76558139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-50,0 -40,0 -40,-10 -50,-10 -50,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Soy_Planted_Area_">
+		<SimpleData name="tile_id">00N_060W</SimpleData>
+		<SimpleData name="F2001">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2001&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2002">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2002&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2003">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2003&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2004">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2004&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2005">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2005&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2006">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2006&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2007">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2007&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2008">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2008&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2009">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2009&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2010">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2010&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2011">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2011&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2012">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2012&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2013">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2013&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2014">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2014&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2015">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2015&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2016">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2016&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2017">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2017&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2018">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2018&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2019">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2019&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2020">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2020&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2021">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2021&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2022">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_060W&amp;pixel_meaning=is__year_2022&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="ObjectId">2</SimpleData>
+		<SimpleData name="Shape__Area">1245542622548.87</SimpleData>
+		<SimpleData name="Shape__Length">4464169.76558139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-60,0 -50,0 -50,-10 -60,-10 -60,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Soy_Planted_Area_">
+		<SimpleData name="tile_id">00N_070W</SimpleData>
+		<SimpleData name="F2001">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2001&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2002">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2002&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2003">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2003&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2004">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2004&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2005">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2005&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2006">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2006&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2007">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2007&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2008">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2008&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2009">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2009&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2010">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2010&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2011">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2011&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2012">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2012&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2013">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2013&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2014">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2014&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2015">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2015&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2016">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2016&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2017">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2017&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2018">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2018&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2019">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2019&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2020">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2020&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2021">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2021&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2022">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=00N_070W&amp;pixel_meaning=is__year_2022&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="ObjectId">3</SimpleData>
+		<SimpleData name="Shape__Area">1245542622548.87</SimpleData>
+		<SimpleData name="Shape__Length">4464169.76558139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-70,0 -60,0 -60,-10 -70,-10 -70,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Soy_Planted_Area_">
+		<SimpleData name="tile_id">10S_040W</SimpleData>
+		<SimpleData name="F2001">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2001&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2002">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2002&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2003">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2003&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2004">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2004&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2005">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2005&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2006">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2006&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2007">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2007&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2008">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2008&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2009">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2009&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2010">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2010&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2011">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2011&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2012">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2012&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2013">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2013&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2014">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2014&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2015">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2015&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2016">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2016&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2017">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2017&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2018">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2018&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2019">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2019&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2020">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2020&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2021">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2021&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2022">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_040W&amp;pixel_meaning=is__year_2022&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="ObjectId">4</SimpleData>
+		<SimpleData name="Shape__Area">1284783830947.45</SimpleData>
+		<SimpleData name="Shape__Length">4534671.72012493</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-40,-10 -30,-10 -30,-20 -40,-20 -40,-10</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Soy_Planted_Area_">
+		<SimpleData name="tile_id">10S_050W</SimpleData>
+		<SimpleData name="F2001">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2001&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2002">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2002&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2003">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2003&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2004">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2004&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2005">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2005&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2006">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2006&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2007">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2007&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2008">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2008&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2009">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2009&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2010">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2010&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2011">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2011&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2012">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2012&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2013">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2013&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2014">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2014&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2015">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2015&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2016">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2016&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2017">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2017&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2018">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2018&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2019">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2019&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2020">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2020&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2021">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2021&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2022">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_050W&amp;pixel_meaning=is__year_2022&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="ObjectId">5</SimpleData>
+		<SimpleData name="Shape__Area">1284783830947.45</SimpleData>
+		<SimpleData name="Shape__Length">4534671.72012493</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-50,-10 -40,-10 -40,-20 -50,-20 -50,-10</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Soy_Planted_Area_">
+		<SimpleData name="tile_id">10S_060W</SimpleData>
+		<SimpleData name="F2001">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2001&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2002">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2002&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2003">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2003&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2004">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2004&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2005">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2005&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2006">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2006&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2007">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2007&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2008">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2008&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2009">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2009&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2010">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2010&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2011">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2011&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2012">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2012&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2013">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2013&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2014">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2014&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2015">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2015&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2016">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2016&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2017">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2017&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2018">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2018&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2019">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2019&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2020">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2020&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2021">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2021&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2022">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_060W&amp;pixel_meaning=is__year_2022&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="ObjectId">6</SimpleData>
+		<SimpleData name="Shape__Area">1284783830947.46</SimpleData>
+		<SimpleData name="Shape__Length">4534671.72012493</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-60,-10 -50,-10 -50,-20 -60,-20 -60,-10</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Soy_Planted_Area_">
+		<SimpleData name="tile_id">10S_070W</SimpleData>
+		<SimpleData name="F2001">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2001&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2002">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2002&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2003">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2003&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2004">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2004&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2005">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2005&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2006">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2006&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2007">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2007&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2008">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2008&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2009">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2009&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2010">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2010&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2011">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2011&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2012">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2012&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2013">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2013&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2014">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2014&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2015">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2015&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2016">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2016&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2017">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2017&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2018">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2018&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2019">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2019&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2020">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2020&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2021">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2021&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2022">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=10S_070W&amp;pixel_meaning=is__year_2022&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="ObjectId">7</SimpleData>
+		<SimpleData name="Shape__Area">1284783830947.45</SimpleData>
+		<SimpleData name="Shape__Length">4534671.72012493</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-70,-10 -60,-10 -60,-20 -70,-20 -70,-10</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Soy_Planted_Area_">
+		<SimpleData name="tile_id">20S_050W</SimpleData>
+		<SimpleData name="F2001">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2001&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2002">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2002&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2003">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2003&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2004">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2004&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2005">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2005&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2006">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2006&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2007">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2007&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2008">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2008&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2009">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2009&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2010">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2010&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2011">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2011&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2012">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2012&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2013">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2013&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2014">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2014&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2015">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2015&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2016">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2016&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2017">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2017&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2018">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2018&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2019">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2019&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2020">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2020&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2021">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2021&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2022">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_050W&amp;pixel_meaning=is__year_2022&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="ObjectId">8</SimpleData>
+		<SimpleData name="Shape__Area">1369807391981.28</SimpleData>
+		<SimpleData name="Shape__Length">4687427.64889884</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-50,-20 -40,-20 -40,-30 -50,-30 -50,-20</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Soy_Planted_Area_">
+		<SimpleData name="tile_id">20S_060W</SimpleData>
+		<SimpleData name="F2001">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2001&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2002">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2002&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2003">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2003&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2004">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2004&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2005">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2005&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2006">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2006&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2007">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2007&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2008">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2008&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2009">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2009&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2010">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2010&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2011">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2011&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2012">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2012&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2013">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2013&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2014">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2014&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2015">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2015&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2016">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2016&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2017">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2017&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2018">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2018&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2019">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2019&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2020">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2020&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2021">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2021&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2022">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_060W&amp;pixel_meaning=is__year_2022&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="ObjectId">9</SimpleData>
+		<SimpleData name="Shape__Area">1369807391981.28</SimpleData>
+		<SimpleData name="Shape__Length">4687427.64889884</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-60,-20 -50,-20 -50,-30 -60,-30 -60,-20</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Soy_Planted_Area_">
+		<SimpleData name="tile_id">20S_070W</SimpleData>
+		<SimpleData name="F2001">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2001&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2002">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2002&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2003">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2003&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2004">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2004&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2005">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2005&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2006">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2006&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2007">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2007&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2008">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2008&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2009">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2009&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2010">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2010&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2011">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2011&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2012">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2012&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2013">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2013&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2014">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2014&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2015">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2015&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2016">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2016&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2017">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2017&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2018">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2018&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2019">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2019&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2020">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2020&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2021">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2021&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2022">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=20S_070W&amp;pixel_meaning=is__year_2022&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="ObjectId">10</SimpleData>
+		<SimpleData name="Shape__Area">1369807391981.28</SimpleData>
+		<SimpleData name="Shape__Length">4687427.64889884</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-70,-20 -60,-20 -60,-30 -70,-30 -70,-20</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Soy_Planted_Area_">
+		<SimpleData name="tile_id">30S_060W</SimpleData>
+		<SimpleData name="F2001">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2001&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2002">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2002&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2003">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2003&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2004">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2004&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2005">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2005&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2006">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2006&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2007">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2007&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2008">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2008&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2009">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2009&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2010">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2010&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2011">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2011&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2012">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2012&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2013">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2013&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2014">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2014&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2015">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2015&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2016">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2016&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2017">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2017&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2018">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2018&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2019">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2019&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2020">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2020&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2021">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2021&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2022">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_060W&amp;pixel_meaning=is__year_2022&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="ObjectId">11</SimpleData>
+		<SimpleData name="Shape__Area">1516608322359.94</SimpleData>
+		<SimpleData name="Shape__Length">4951174.68786308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-60,-30 -50,-30 -50,-40 -60,-40 -60,-30</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Soy_Planted_Area_">
+		<SimpleData name="tile_id">30S_070W</SimpleData>
+		<SimpleData name="F2001">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2001&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2002">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2002&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2003">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2003&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2004">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2004&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2005">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2005&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2006">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2006&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2007">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2007&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2008">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2008&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2009">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2009&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2010">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2010&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2011">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2011&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2012">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2012&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2013">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2013&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2014">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2014&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2015">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2015&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2016">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2016&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2017">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2017&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2018">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2018&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2019">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2019&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2020">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2020&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2021">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2021&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2022">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_070W&amp;pixel_meaning=is__year_2022&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="ObjectId">12</SimpleData>
+		<SimpleData name="Shape__Area">1516608322359.94</SimpleData>
+		<SimpleData name="Shape__Length">4951174.68786307</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-70,-30 -60,-30 -60,-40 -70,-40 -70,-30</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Soy_Planted_Area_">
+		<SimpleData name="tile_id">30S_080W</SimpleData>
+		<SimpleData name="F2001">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2001&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2002">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2002&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2003">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2003&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2004">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2004&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2005">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2005&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2006">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2006&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2007">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2007&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2008">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2008&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2009">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2009&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2010">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2010&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2011">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2011&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2012">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2012&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2013">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2013&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2014">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2014&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2015">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2015&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2016">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2016&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2017">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2017&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2018">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2018&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2019">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2019&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2020">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2020&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2021">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2021&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2022">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=30S_080W&amp;pixel_meaning=is__year_2022&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="ObjectId">13</SimpleData>
+		<SimpleData name="Shape__Area">1516608322359.94</SimpleData>
+		<SimpleData name="Shape__Length">4951174.68786308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-80,-30 -70,-30 -70,-40 -80,-40 -80,-30</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Soy_Planted_Area_">
+		<SimpleData name="tile_id">40S_070W</SimpleData>
+		<SimpleData name="F2001">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2001&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2002">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2002&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2003">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2003&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2004">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2004&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2005">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2005&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2006">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2006&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2007">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2007&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2008">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2008&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2009">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2009&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2010">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2010&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2011">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2011&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2012">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2012&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2013">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2013&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2014">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2014&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2015">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2015&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2016">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2016&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2017">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2017&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2018">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2018&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2019">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2019&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2020">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2020&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2021">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2021&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="F2022">https://data-api.globalforestwatch.org/dataset/umd_soy_planted_area/v3/download/geotiff?grid=10/40000&amp;tile_id=40S_070W&amp;pixel_meaning=is__year_2022&amp;x-api-key=2d60cd88-8348-4c0f-a6d5-bd9adb585a8c</SimpleData>
+		<SimpleData name="ObjectId">14</SimpleData>
+		<SimpleData name="Shape__Area">1759219273512.57</SimpleData>
+		<SimpleData name="Shape__Length">5387056.93889344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-70,-40 -60,-40 -60,-50 -70,-50 -70,-40</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
